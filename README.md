@@ -1,4 +1,4 @@
-<h2 align="left">Stats</h1>
+<h1 align="left">Stats</h1>
 
 ###
 
@@ -9,4 +9,4 @@
 </div>
 
 ###
-]
+
