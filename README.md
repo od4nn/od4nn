@@ -24,9 +24,8 @@
 
 ###
 
-> ⚠️ Para melhor visualização do perfil (gráficos e cores), recomendo ativar o **tema escuro** no GitHub.
-
 <h2 align="left">GitHub Stats</h2>
+> ⚠️ Para melhor visualização do perfil (gráficos e cores), recomendo ativar o **tema escuro** no GitHub.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=od4nn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
