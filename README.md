@@ -24,6 +24,8 @@
 
 ###
 
+> ⚠️ Para melhor visualização do perfil (gráficos e cores), recomendo ativar o **tema escuro** no GitHub.
+
 <h2 align="left">GitHub Stats</h2>
 
 <div align="center">
