@@ -5,7 +5,7 @@
 <div align="left">
   <p>🎓 <b>Studying:</b> C, HTML, CSS, and JS.</p>
   <p>🧠 <b>Learning:</b> Web development, programming logic, and exploring the world of technology.</p>
-  <p>🎮 <b>I like:</b> Playing games, watching series and movies, and playing chess.</p>
+  <p>🎮 <b>I like:</b> Playing games, watching series and movies.</p>
 </div>
 
 ###
